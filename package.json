@@ -1,0 +1,18 @@
+{
+  "name": "cypress-e2e-getting-started",
+  "version": "0.0.1",
+  "description": "Initial templates and examples project for Cypress E2E tests",
+  "main": "index.js",
+  "scripts": {
+    "cypres:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-psisysinsight:psisysinsight/cypress-e2e-getting-started.git"
+  },
+  "author": "Peter Isber",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
